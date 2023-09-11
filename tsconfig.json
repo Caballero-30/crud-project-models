@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+	"module": "commonjs",
+	"target": "ES2017",
+	"strict": true,
+	"noEmitOnError": true,
+	"noImplicitThis": true,
+	"noImplicitOverride": true,
+	"esModuleInterop": true,
+	"declaration": true,
+	"declarationDir": "./types",
+	"moduleResolution": "node",
+	"removeComments": true,
+	"outDir": "./dist",
+	"strictPropertyInitialization": false,
+	"emitDecoratorMetadata": true,
+	"experimentalDecorators": true,
+	"sourceMap": true,
+	"sourceRoot": "./src",
+	"pretty": true
+  }
+}
